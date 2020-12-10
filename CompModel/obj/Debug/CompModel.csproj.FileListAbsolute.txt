@@ -1,0 +1,10 @@
+C:\Users\Максим\source\repos\CompModel\CompModel\bin\Debug\CompModel.exe.config
+C:\Users\Максим\source\repos\CompModel\CompModel\bin\Debug\CompModel.exe
+C:\Users\Максим\source\repos\CompModel\CompModel\bin\Debug\CompModel.pdb
+C:\Users\Максим\source\repos\CompModel\CompModel\obj\Debug\CompModel.csprojResolveAssemblyReference.cache
+C:\Users\Максим\source\repos\CompModel\CompModel\obj\Debug\CompModel.Form1.resources
+C:\Users\Максим\source\repos\CompModel\CompModel\obj\Debug\CompModel.Properties.Resources.resources
+C:\Users\Максим\source\repos\CompModel\CompModel\obj\Debug\CompModel.csproj.GenerateResource.Cache
+C:\Users\Максим\source\repos\CompModel\CompModel\obj\Debug\CompModel.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\CompModel\CompModel\obj\Debug\CompModel.exe
+C:\Users\Максим\source\repos\CompModel\CompModel\obj\Debug\CompModel.pdb
